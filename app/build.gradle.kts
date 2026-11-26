@@ -1,6 +1,7 @@
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.compose)
+    alias(libs.plugins.kotlinx.serialization)
 }
 
 android {
@@ -58,4 +59,5 @@ dependencies {
 
     implementation(libs.androidx.navigation)
     implementation(libs.kotlin.reflect)
+    implementation(libs.compose.calendar)
 }
