@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Correlation</string>
+    <string name="menu_back_desc">Back arrow for navigating between screens</string>
+    <string name="home_screen_title">Home</string>
 </resources>
